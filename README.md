@@ -2,6 +2,7 @@
 
 **Ask-IPC** is an intelligent legal assistant that helps users query the **Indian Penal Code (IPC)** in natural language. It uses **LangChain**, **Cohere LLM**, and the **Wikipedia API** to provide accurate and section-wise responses from reliable sources.
 
+[![DOI](https://zenodo.org/badge/981601864.svg)](https://doi.org/10.5281/zenodo.15383107)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Python](https://img.shields.io/badge/python-3.8+-brightgreen.svg)
 ![Cohere](https://img.shields.io/badge/Cohere-LLM-orange)
